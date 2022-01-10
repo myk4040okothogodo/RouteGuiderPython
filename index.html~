@@ -1,0 +1,16 @@
+<html>
+<head><title>Client Side Routing Demo</title></head>
+
+<body>
+<header>
+<ul>
+<li><button>Home</button></li>
+<li><button>About</button></li>
+<li><button>Contact</button></li>
+</ul>
+<div>
+<h1>Hello!</h1>
+</div>
+</header>
+</body>
+</html>
